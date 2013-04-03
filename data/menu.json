@@ -1,0 +1,5293 @@
+
+	{ 
+		"food": [
+			
+				{   "date": "2013-03-22",
+					"menus": [
+						
+		       			{
+							"diningHall": "r1",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Poireaux en vinaigrette ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade marocaine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Duo de saucisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Flageolets ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Encornet à l'américaine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Côte de porc sauce poivrade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou-fleur sauté ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Bol Tex-Mex ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Brownies ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chausson aux pommes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poires au sirop ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r2",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Poireaux vinaigrette ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade marocaine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Duo de saucisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Merguez ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steack haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Côte de porc sauce poivrade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou-fleur sauté ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Flageolet ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Encornet à l'américaine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Brownies ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r3",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade au thon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade californienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage tomate ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "pommes de terre rissolées ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de colin grillé sce béarnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poêlé villageoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tortis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "escalope viennoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tortis aux deux saumons ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "pizza ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "île flottante ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tarte aux pommes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r4",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "salade niçoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "quiche lorraine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "riz madras ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "courgettes sautées ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cassolette rochelaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poulet yassa ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r5",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "gratin de pennés et courgettes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "chipolatas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "saumonette sce aneth ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tomates farcies ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "salade italienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pennés sce bolognaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "hamburger supême potatoes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "jambon beurre ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "tartelette abricots ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "chou chantilly ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r6",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "sandwich kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "gratin de pennés et courgettes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tomates farcies ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "saumonette sce aneth ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r7",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade à l'emmental ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeuf cocktail ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou-blanc au curry ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de pâtes à l'indienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Potage de légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Semoule au safran ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Brochette de dinde au gingembre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté d'agneau au curry ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Royale de légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz au lait des maharadja ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r8",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "plamplemousse en segment ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade verte de poulet ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pain parisien ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "haricot beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "steak de thon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "moussaka maison ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pané fromager ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "salade de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "crème caramel ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r10",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Buffet d'entrées ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Pizzas capri ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saumonette à l'ail ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blé aux légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Gratin de poireaux ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Coq à la vigneronne ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r13",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+																			
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r14",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Brochette orientale sauce tomate ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Beignet de poisson ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou fleur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre boulangère ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Steak haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r17",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Fricassée de canard à la vanille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Calamars à l'américaine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou fleur à la poitevine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz basmati ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Grillades - Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâtisseries maison ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Tomates farcies ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Feuilleté de poisson ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Petits pois ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blé aux herbes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r19",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade à l'emmental ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeuf cocktail ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou-blanc au curry ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de pâtes à l'indienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Potage de légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Semoule au safran ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Brochette de dinde au gingembre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté d'agneau au curry ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Royale de légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Spaghettis bolognaise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Salade de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz au lait des maharadjas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}
+					]
+				}, 
+				{   "date": "2013-03-25",
+					"menus": [
+						
+		       			{
+							"diningHall": "r1",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Céleri rémoulade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de blé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Jambon de pays ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crépinette sauce madère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tomates grillées aux herbes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz aux champignons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de poisson coco ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fritto misto ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blanquette de dinde ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r2",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Céleri rémoulade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de blé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Jambon de pays ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steack haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tomates grillées aux herbes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz aux champignons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de poisson coco ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blanquette de dinde ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crépinette sauce madère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fritto misto ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Salade verte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pizza Fromaggio ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Gauffre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Mille feuilles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tarte aux pommes crumble ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Compote de poires ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r3",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "bol salade niçoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade saumon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sauté de porc à la vietnamienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "carottes au cumin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pommes de terre rôties ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "quiche au poireau ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "feuilleté de saumon à l'oseille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cuisse de poulet basquaise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "pizza ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "hot dog ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "brownies ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade de fruits ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r4",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "assiette de charcuterie ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "macédoine au crabe ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "carottes vichy ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sauté de boeuf bourguignon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pavé de saumon sce aneth ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pommes de terre boulangères ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r5",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poêlé villageoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tortis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "escalope viennoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de colin grillé sce bearnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tagliatelles aux 2 saumons ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r6",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "sandwich kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "tortis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de colin grillé sce béarnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poêlé villageoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "hachis parmentier salade ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "entremet chocolat ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r7",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Piémontaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté de campagne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Friand au fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Céleri rémoulade ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Haricots verts ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Nuggets ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâtes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cheeseburger ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r8",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "quiche ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "betterave vinaigrette ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "maquereaux escabèche ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "boudin blanc ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "escalope de dinde suprême ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de lieu au basilic ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "printanière de légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "boulghour aux raisins ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "doughnuts chocolat ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r12",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes & Brocolis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Boulgour aux petits légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de poisson pané ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Boulettes de boeuf sauce champignons ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r14",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Cuisse de poulet ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Paupiette du pêcheur sauce au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Ratatouille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Flageolets ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak sauce échalote ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r16",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Haricots beurre persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Semoule berbère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Lentilles à la paysanne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak de poisson sauce pêcheur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté de porc Texan ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r17",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Blé aux herbes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Flan de courgettes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blanquette de dinde ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de Tilapia sauce basilic ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Grillades - Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Pâtisseries maison ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Endives au four ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poisson pané ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Brochette de volaille maison ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tortis trois couleurs ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r19",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Pâté de campagne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Friand au fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Céleri rémoulade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Piémontaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Potage crécy ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Poêlée paysanne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Lentilles à la dijonnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de lieu à l'oseille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saucisse de Toulouse ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage blanc et compote ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chausson aux pommes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Râpée de légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz texan ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Colombo de poulet ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Panini ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Galette du Lac ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pizza ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crêpe au sucre ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}
+					]
+				}, 
+				{   "date": "2013-03-26",
+					"menus": [
+						
+		       			{
+							"diningHall": "r1",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Tomates/surimi ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade piémontaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cervelas en vinaigrette ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Rôti de porc à la mexicaine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou de bruxelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre au four croustillante ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de poisson meunière ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Pâtes Indy ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Muffin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Forêt noire ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Ananas au sirop ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Beignet au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r2",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Tomates/surimi ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade piémontaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cervelas en vinaigrette ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steack haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou de Bruxelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre au four croustillante ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de poisson meunière ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Rôti de porc à la mexicaine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Double cordon bleu ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâtes Indy ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Beignet au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Ananas au sirop ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Forêt noire ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Muffin ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r3",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "bol salade du berger ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade de poulet ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "pommes de terre sautées ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tagliatelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "chou fleur en gratin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cheeseburger ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "courgettes farcies ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "anneaux d'encornets à l'armoricaine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "pizza ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pâtes fraîches sce saumon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "crème brûlée ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tourte aux fruits rouges ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r4",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "jambon vendéen ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tomate antiboise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "tortis aux légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "lapin aux olives ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tomates provençales ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "nage rochelaise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "crème brûlée ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r5",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage carottes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "pommes de terre rôties ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "carottes au cumin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sauté de porc à la vietnamienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cuisse de poulet rôti basquaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "nuggets de poisson citron sce tartare ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r6",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "sandwich kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "pommes de terre rôties ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "carottes cumin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cuisse de poulet rôti ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "feuilleté de saumon à l'oseille sce tartare ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r7",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade de riz ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Endives aux lardons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeuf cocktail ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Macédoine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes et oeuf ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Lentilles à la dijonnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poêlée paysanne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saucisse de Toulouse ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de lieu à l'oseille ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Nuggets de volaille ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Entremet au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poire au sirop ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Gâteau aux noix ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r8",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "pâté au basilic ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade céleri branche ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade de gésiers de canard ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "saucisse de montbeliard ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de st pierre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "courgettes aux poivrons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "aligot ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r12",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Sauté de porc Texan ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak de poisson sauce pêcheur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Semoule berbère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Lentilles à la paysanne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Haricots beurre persillés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r14",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Tajine aux boulettes d'agneau ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Brochette de poisson pané ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes vichy ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Boulgour arlequin ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Steak haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r16",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Pommes de terre boulangère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de hoky sauce basilic ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Légumes au cumin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poulet au coca cola ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r17",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Couscous au poulet ou merguez ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de lieu sauce bonne femme ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Bouchée à la reine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes vichy ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Semoule ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Pâtisseries maison ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Jambon grillé sauce madère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Brochette de colin sauce à l'aneth ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Choux de Bruxelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Blé aux légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r19",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Crème de brocolis ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeuf cocktail ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de riz ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Macédoine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Endives aux lardons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes et oeuf ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté de boeuf aux olives ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre vapeur ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Poire au sirop ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Entremet au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Gâteau aux noix ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Oeufs mimosa ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté de foie ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de pâtes au thon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Carottes vichy ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz pilaf ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chipolatas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Emincé de volaille à la crème ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeufs au lait ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}
+					]
+				}, 
+				{   "date": "2013-03-27",
+					"menus": [
+						
+		       			{
+							"diningHall": "r1",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Nems ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes au thon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Avocat mayonnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté au poivre vert ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Couscous ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Couscous poisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Sandwich Kebab ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Paris Brest ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Compote de pêches ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tarte au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Flan pâtissier ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r2",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Nems ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Carottes au thon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Avocat mayonnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté au poivre vert ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Steack haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Travers de porc laqués ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Couscous poisson ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Couscous ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Salade verte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pizza bolognaise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Flan pâtissier ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tarte au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Paris-Brest ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Compote de pêches ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r3",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "bol salade saumon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade shanghaï ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage parmentier ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "joue de boeuf aux épices ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "croque monsieur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "coquille de poisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "pizza ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "baguette gourmande ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "riz au lait créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "gâteau le plaisir ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r4",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "céleri rémoulade et tomates ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "riz basmati ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poêlé villageoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "wok de poulet au miel ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de colin sce verte ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r5",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "potage parmentier ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "pommes de terre sautées ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tagliatelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "gratin de chou fleur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "cordon bleu ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poulet rôti ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "anneaux d'encornets à l'américaine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r6",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "dandwich kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "purée ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "chou fleur en gratin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tagliatelles ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "courgettes farcies sce tomate ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "purée ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "brochette de poisson pané ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r7",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade chinoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté en croûte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Radis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Avocat mayonnaise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre vapeur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté de boeuf aux olives ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Nem ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Grimolle ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cocktail de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r8",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "tomate et mozzarella ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade verte jambon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "avocat crevettes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tortis ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "endives au jambon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pavé de colin en croûte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "raviolis ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r12",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de hoky sauce basilic ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poulet au coca cola ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pommes de terre boulangère ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Légumes au cumin ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r14",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Chili con carne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de panga sauce basilic ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Epinards à la crème ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz créole ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Cordon bleu ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r16",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Paella maison ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Feuilleté de saumon à l'oseille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz au safran ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Légumes à l'orientale ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r17",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Boeuf bourguignon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saumonette meunière ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Râpé de légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Purée maison ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Grillades - Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâtisseries maison ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Lasagnes maison ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Paupiette de veau à la crème ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Printanière de légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r19",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Potage de légumes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Avocat mayonnaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Radis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâté en croûte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade chinoise ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Riz cantonais ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de dorade sauce bonne femme ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Porc au caramel ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cocktail de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grimolle ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Carottes et maïs ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Taboulé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tomates et thon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Légumes braisés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cordon bleu ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Lasagnes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fondant au chocolat ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}
+					]
+				}, 
+				{   "date": "2013-03-28",
+					"menus": [
+						
+		       			{
+							"diningHall": "r1",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade de choux blancs ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saucisson sec ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de pâtes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pâtes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steack haché ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Feuilleté au jambon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Matelotte de poisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Croisillon aux abricots ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r2",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Salade de choux blancs ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de pâtes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Saucisson sec ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Pâtes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Feuilleté au jambon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Matelotte de poisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Hamburger Bacon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage blanc ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Cocktail de fruits ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Croisillon abricots ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Yaourt ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r3",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "bol salade italienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "bol salade hollandaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "velouté de courgettes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "semoule ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "gratin de carottes courgettes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "poulet rôti ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de colin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "travers de porc miel romarin ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "pizza ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "tropézienne ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "paris brest ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r4",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "assiette de crudités ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "quiche épinards saumon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "courgettes provençales ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pommes de terre sautées ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sauté de dinde sce ananas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "tortis sce bleu jambon ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r5",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "velouté de courgettes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "croque monsieur ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sauté de boeuf niçoise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "chili con carné ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r6",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "salade kebab ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "sandwich kebab ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "joue de boeuf aux épices ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "haricots verts persillés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "riz créole ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "coquille de poisson ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r7",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Tomates et concombre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pain de poisson ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de cervelas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeufs mimosa ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Riz cantonais ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Porc au caramel ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de dorade ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Tartiflette ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fondant au chocolat ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Iles flottantes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r8",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "radis au beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "mousse de canard ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "terrine ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "poêlé de légumes et féculents ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "coq au vin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "brushetta ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "filet de saumon grillé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "pommes de terre vapeur persillées ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "sun muffin ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r12",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Feuilleté de saumon à l'oseille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Paella maison ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Riz au safran ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Légumes à l'orientale ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r14",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Couscous au poulet ou merguez ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Crêpe au fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou fleur à la poitevine ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Semoule royale ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Jambon grillé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r16",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Pois cassés ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tomates provençales ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Grillades diverses ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Poisson à la Bordelaise ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Sauté de boeuf aux pruneaux ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r17",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Escalope de dinde sauce estragon ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Filet de lieu à la vanille ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Burritos et salade verte ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Haricots beurre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tortis aux légumes ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Hors d'oeuvre variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Poitrine de veau farcie sauce champignons ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Menu fromage ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Légumes au cumin ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Fromage ou desserts variés ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}, 
+		       			{
+							"diningHall": "r19",
+							"meals": [
+								
+								
+										{
+											"name": "Midi",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les entrées",
+														"dishes": [
+															
+																	{ "name": "Potage aux herbes aromatiques ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Tomates et concombre ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Pain de poisson ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade de cervelas ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Oeufs mimosa ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Semoule aux épices ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Emincé de volaille à la crème ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Alouette de boeuf sauce poivre vert ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Chou-fleur sauté ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les pôles",
+														"dishes": [
+															
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }, 
+								       			{
+													
+														"name": "Les desserts",
+														"dishes": [
+															
+																	{ "name": "Crème dessert / Yaourt / Fruit ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Iles flottantes ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Fondant au chocolat ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}, 
+										{
+											"name": "Soir",
+											"categories": [
+												
+												
+												
+								       			{
+													
+														"name": "Les plats",
+														"dishes": [
+															
+																	{ "name": "Carottes à la crème ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Steak haché grillé ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Frites ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Petits pois ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Salade ", 
+																	  "nutritionItems": []
+																	}, 
+																	{ "name": "Roulade de lapin à la moutarde ", 
+																	  "nutritionItems": []
+																	}	
+									                    ]
+									                
+									             }							
+											]
+										}							
+				     		]
+						}
+					]
+				}
+		]
+	}
+	

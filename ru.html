@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CROUS Menus & RUs</title>
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.css" />
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+		<script type="text/javascript" src="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.js"></script>
+		<script type="text/javascript" src="ru.js"></script>
+	</head>
+	<body>
+		<div class="container" data-role="page">
+			<div data-role="header">
+				<h1>Dining</h1> 
+			</div>
+			<div data-role="content" id="campuses">
+				<ul id="campusList" data-role="listview">
+					<li data-role="list-divider">S&eacute;lectionnez un campus</li>
+				</ul>
+			</div>
+			<div data-role="footer">
+				<p>Source: CROUS de Poitiers</p>
+			</div>
+		</div>
+		<div id="menus" class="menus" data-role="page" data-add-back-btn="true">
+			<div data-role="header">
+				<h1>Menus</h1> 
+			</div>
+			<div id="food" data-role="content" >
+				<select id="dateSelect" name="dateSelect" data-role="select"></select>
+				<div id="hallList" data-role="collapsible-set"></div>
+				<div id="menuContainer">
+				</div>
+			</div>
+			<div data-role="footer">
+				<p>Source: CROUS de Poitiers</p>
+			</div>
+		</div>
+	</body>
+</html>
