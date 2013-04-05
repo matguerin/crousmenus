@@ -9,26 +9,62 @@
 		       			{
 							"key": "r1",
 							"name": "RU Breuty",
-							
 							"location": "45.625666, 0.12323",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Domaine universitaire de la Couronne",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/2ac6a318af39363be02ba47b07e6f5b2.jpeg",
+							"contactInfo": {
+								"address": "Bois de Breuty - La Croix du Milieu - 16400 La Couronne ",
+								"tel": "05.45.25.51.51",
+								"email": "restaurant.breuty@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Domaine universitaire de la Couronne"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h45 à 13h30  Rechargement borne monéo : 8h à 16h"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Campus, lignes 1 (Pont Valteau) et 22 (arrêt devant le RU)"
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   Menu complet : plat du jour (viande, poisson), carte d'entrées et de desserts   Pôle grillade et italien (pizza), boissons.   Animations :   Repas à thème, semaine du goût, expositions, ambiance musicale, TV, Pratique :   Journal, point info-spectacles"
+									}	
+							]
 						}, 
 		       			{
 							"key": "r2",
 							"name": "RU Crousty",
-							
 							"location": "45.64744, 0.136317",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": "Domaine universitaire, en face de l'IUT ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/f0f289d2b4d1765a199d4858e90fbbb4.jpeg",
+							"contactInfo": {
+								"address": "6 rue de Varsovie - 16000 ANGOULEME ",
+								"tel": "05.45.25.51.51",
+								"email": "restaurant.crousty@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Domaine universitaire, en face de l'IUT "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h45 à 13h30. Rechargement borne monéo : 8h à 16h"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   arrêt Varsovie, ligne 6"
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   Menu complet : plat du jour (viande, poisson), avec grande variété d'entrées, fromages et desserts   Pôle grillade et italien (pizza), boissons.   Animations : Repas à thème, expositions, ambiance musicale  Services : Journal, point info-spectacles Borne de rechargement monétique par CB "
+									}	
+							]
 						}
 					]
 				}, 
@@ -39,14 +75,32 @@
 		       			{
 							"key": "r7",
 							"name": "RU du Sanital",
-							
 							"location": "46.834906, 0.534488",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": "A proximité de l'IUT",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/326468c9cea54c3b7f7312abfe0c2def.jpeg",
+							"contactInfo": {
+								"address": "Zone du Sanital - Rue Alfred Nobel - 86100 CHATELLERAULT ",
+								"tel": "05.49.21.54.36",
+								"email": "restaurant.sanital@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"A proximité de l'IUT"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h15"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Ligne P'tibus, arrêt IUT Technoforum "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   Menu complet : assortiment d'entrées, de desserts, grand choix de légumes, plat chaud au choix (grillades, poisson, viande)"
+									}	
+							]
 						}
 					]
 				}, 
@@ -57,50 +111,122 @@
 		       			{
 							"key": "r6",
 							"name": "Cafétéria des Sciences",
-							
 							"location": "46.146342, -1.158088",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": "Sur le Campus",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/ec8fe922d271252a024824ad4525cf2f.jpeg",
+							"contactInfo": {
+								"address": "Avenue Henri Becquerel - 17000 LA ROCHELLE ",
+								"tel": "05 46 34 66 46",
+								"email": "cafeteria.sciences@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Sur le Campus"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 9h à 14h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité : ligne 10 "
+									}, 
+									{ "name": "Description",
+									  "value" :": Des plats du jour, salades, sandwichs, kebabs, viennoiseries et des boissons chaudes et froides."
+									}	
+							]
 						}, 
 		       			{
 							"key": "r5",
 							"name": "RU Amerigo Vespucci",
-							
 							"location": "46.151971, -1.154113",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": " A côté de la maison de l'étudiant et de la Flash ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/e4bc56efaa3fd3a95ad1e7ea58b107f5.jpeg",
+							"contactInfo": {
+								"address": "Rue du Loup Marin - 17000 LA ROCHELLE ",
+								"tel": "05.46.50.40.88",
+								"email": "restaurant.vespucci@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :" A côté de la maison de l'étudiant et de la Flash "
+									}, 
+									{ "name": "Horaires",
+									  "value" :" Du lundi au vendredi de 11h30 à 13h45"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   lignes 10, 17 et 19"
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations  : Menu complet : plat du jour, assortiment f'entrées chaudes ou froides et de desserts, pâtisserie maison   Pôle italien : pizzas et bruschettas       Pratique :   Accessibilité aux personnes à mobilité réduite "
+									}	
+							]
 						}, 
 		       			{
 							"key": "r4",
 							"name": "RU Antinéa",
-							
 							"location": "46.141476, -1.152613",
 							"type": "resto",
 							"openingHours": "011,011,011,011,010,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": "A proximité de l’IUT et de la cité Antinéa",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/9ab1cbe050438bda420bfd1f9fc9334e.jpeg",
+							"contactInfo": {
+								"address": "15 rue Vaux de Foletier - 17000 LA ROCHELLE ",
+								"tel": "05.46.44.18.57",
+								"email": "restaurant.antinea@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"A proximité de l’IUT et de la cité Antinéa"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h45 et de 19h à 20h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   lignes 10, 17 et 19 "
+									}, 
+									{ "name": "Description",
+									  "value" :"Menu complet : plat du jour, assortiment d'entrées, de desserts, pâtes fraîches, potatoes"
+									}	
+							]
 						}, 
 		       			{
 							"key": "r3",
 							"name": "RU République",
-							
 							"location": "46.139069, -1.151973",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": " Campus",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/7bd1d3f1941d5c478467e08ea0d96f45.jpeg",
+							"contactInfo": {
+								"address": "90 boulevard de la République - 17000 LA ROCHELLE ",
+								"tel": "05.46.45.08.08",
+								"email": "restaurant.republique@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :" Campus"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h45."
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   lignes 10, 17 et 19 "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations : Menu complet : assortiment d'entrées et desserts, grande variété de viande et de poisson ;   pour les amateurs de cuisine créative et légère : une multitude de salades ;   Au sein du *Comptoir* : tartes maison, pôle italien avec pizzas à emporter ou sur place, pâtes fraiches, bruschettas...       Pratique :   Accessible aux personnes à mobilité réduite"
+									}	
+							]
 						}
 					]
 				}, 
@@ -111,14 +237,32 @@
 		       			{
 							"key": "r8",
 							"name": "RU Le Marais",
-							
 							"location": "46.32677, -0.489156",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Domaine universitaire",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/469a0e8ea236942874619dd66f18b885.jpeg",
+							"contactInfo": {
+								"address": "10 avenue de Wellingborough - 79012 NIORT BP 3045",
+								"tel": "05.49.73.33.75",
+								"email": "restaurant.lemarais@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Domaine universitaire"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Ligne 2 "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :Menu complet : assortiment d'entrées et de desserts, plats traditionnels   Pôle grillades/frites et paninis       Distributeur automatique de Sandwichs, boissons froides et boissons chaudes à l'IUT       Pratique :   Accessible aux personnes à mobilité réduite "
+									}	
+							]
 						}
 					]
 				}, 
@@ -129,86 +273,209 @@
 		       			{
 							"key": "r20",
 							"name": "Cafétéria La Thériaque",
-							
 							"location": "46.561076, 0.379022",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "En plein coeur du campus de médecine",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/9d8855e0401a8d833da0efa4c919f9ab.jpeg",
+							"contactInfo": {
+								"address": "6 rue de la Milétrie - 86000 POITIERS ",
+								"tel": "05 49 44 53 80",
+								"email": "cafeteria.latheriaque@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"En plein coeur du campus de médecine"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 8h30 à 14h00.    "
+									}, 
+									{ "name": "Description",
+									  "value" :"Boissons chaudes ou froides, viennoiseries, tartes et croque-monsieur, carte de sandwichs, paninis, pizzas...                    "
+									}	
+							]
 						}, 
 		       			{
 							"key": "r12",
 							"name": "Cafétéria Les Sablières",
-							
 							"location": "46.56268, 0.387729",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "En face de l'IUT et de l'UFR Sciences du sport",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/7f9e694e30c94d4baf317a68f20b69dc.jpeg",
+							"contactInfo": {
+								"address": "24 allée Jean Monnet - 86000 POITIERS ",
+								"tel": "05.49.45.35.81",
+								"email": "direction.champlain@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"En face de l'IUT et de l'UFR Sciences du sport"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h30."
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"  "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   Petits-déjeuners, menus complets, variétés d'entrées et de desserts, plats chauds (poissons ou viandes), grand choix de légumes...   Pizzas à consommer sur place ou à emporter    Animations :Menus à thème régulièrement       Pratique :   Terrasse    "
+									}	
+							]
 						}, 
 		       			{
 							"key": "r14",
 							"name": "Cafétéria Thémis",
-							
 							"location": "46.571226, 0.380438",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Au rez-de-chaussée de l’UFR de Droit",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/11188d9e273d06421667456de9297a6a.jpeg",
+							"contactInfo": {
+								"address": "2 allée Jeanne Chauvin - 86000 POITIERS ",
+								"tel": "05.49.03.36.04",
+								"email": "cafeteria.themis@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Au rez-de-chaussée de l’UFR de Droit"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au jeudi de 8h30 à 17h00 et le vendredi de 8h30 à 15h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"  "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   Menus complets, grand choix d'entrées, de viandes, de poissons, de légumes et de desserts, carte de sandwichs, tartes salées, croque-monsieur, frites, carte de boissons chaudes et froides, viennoiseries, confiseries, gauffres, muffins...       Pratique :   Terrasse - patio"
+									}	
+							]
 						}, 
 		       			{
 							"key": "r13",
 							"name": "Caféteria des Lettres",
-							
 							"location": "46.570116, 0.382074",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "À proximité de l'UFR Lettres et Langues -  bâtiment A3 ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/9316e8f07cb701fc43ced6f25d1017ef.jpeg",
+							"contactInfo": {
+								"address": "1 rue Raymond Cantel - 86022 POITIERS BP 613",
+								"tel": "05.49.44.53.80",
+								"email": "cafeteria.lettres@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"À proximité de l'UFR Lettres et Langues -  bâtiment A3 "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"7h45 à 18h00 du Lundi au Jeudi   7h45 à 17h00 le Vendredi    "
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Bus : lignes 1, 9 et 9C"
+									}, 
+									{ "name": "Description",
+									  "value" :"Petits-déjeuners complets, boissons chaudes ou froides, viennoiseries, pizzas, tartes, sandwichs, paninis, croque-monsieur, salades à composer soi-même"
+									}	
+							]
 						}, 
 		       			{
 							"key": "r15",
 							"name": "Le Grand Café",
-							
 							"location": "46.568622, 0.386699",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Maison des étudiants",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/859cf4f4f7e1b34f45ac93a38cd5c6f1.jpeg",
+							"contactInfo": {
+								"address": "1 rue Neuma Fechine Borges - 86007 POITIERS BP 282",
+								"tel": "05.49.45.47.90 ou 05",
+								"email": "cafeteria.grandcafe@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Maison des étudiants"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au jeudi de 10h à 16h30 et le vendredi de 10h à 15h."
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêts de bus à proximité :   Maison des Étudiants (ligne 1), Parcobus Champlain (lignes 1, 9, 10, 11, A, B, N2A, N2B)  "
+									}, 
+									{ "name": "Description",
+									  "value" :"    Animations :   Programmation culturelle annuelle : soirées SLAM tous les mois, nuit de l'humour, débats de la communication, expos, concerts...           Pratique :   Terrasse"
+									}	
+							]
 						}, 
 		       			{
 							"key": "r16",
 							"name": "RU Champlain",
-							
 							"location": "46.569047, 0.38744",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "À côté de la Maison des étudiants ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/f769c310abd3ba4fa7354b5e43301f2a.jpeg",
+							"contactInfo": {
+								"address": "9 rue Théodore Lefebvre - 86000 POITIERS ",
+								"tel": "05.49.38.00.02",
+								"email": "direction.champlain@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"À côté de la Maison des étudiants "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêts de bus à proximité :   Maison des Étudiants (ligne 1), Parcobus Champlain (lignes 1, 9, 10, 11, A, B, N2A, N2B)"
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations : Cuisine traditionnelle : menus complets, buffet d'entrées et de desserts, grand choix de légumes et de plats chauds (pôles grillades, poissons, viandes), soupes maison en décembre et en janvier   3 Pôles thématiques : pizzas, pâtes fraîches, kebabs et paninis.       Animations :Expos, possibilité de concerts dans le hall du RU           Accessible aux personnes à mobilité réduite "
+									}	
+							]
 						}, 
 		       			{
 							"key": "r17",
 							"name": "RU Rabelais",
-							
 							"location": "46.569459, 0.377209",
 							"type": "resto",
 							"openingHours": "011,011,011,011,011,010,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Sur le campus",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/6a78ce481cbb25a491e32813a832c5e8.jpeg",
+							"contactInfo": {
+								"address": "5 rue de la Devinière - 86000 POITIERS ",
+								"tel": "05.49.44.53.80",
+								"email": "direction.ru.rabelais@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Sur le campus"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"   Du lundi au vendredi :   Crêperie, Bar et Sandwicherie de 11h30 à 14h   Pôle Pâtes fraîches de 11h30 à 14h   Pôle Pizza :   Du lundi au jeudi de 11h30 à 14h et de 18h45 à 20h45   Le vendredi de 11h30 à 14h       Étage   Du lundi au vendredi soir de 11h30 à 13h30 et de 18h45 à 20h30   Le samedi midi de 11h45 à 13h30        "
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêts de bus à proximité :   Rabelais (ligne 1)    "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :   - Pôles thématiques et cuisines du monde au rez-de-chaussée : pizzas, pâtes, kebabs, crêpes, carte de sandwichs, bar, viennoiseries, glaces...   - Menu complet à l'étage : buffet d'entrées chaudes et froides, soupes et veloutés, grande variété de plats du jour (pôles viandes, poissons, tartes ou grillades), carte de desserts (salades de fruits, pâtisserie maison, yaourts...)   - Salle de restauration gastronomique (la salle Thélème)       Animations :   - Le dîner de la Saint-Valentin :   Chaque année, aux alentours du 14 février, le restaurant propose sur réservation, à des couples d'étudiants un dîner haut de gamme pour un prix très séduisant.     - Repas à thème   Environ une fois par mois, un déjeuner à thème est proposé : repas *Halloween* en octobre, repas chinois début février, menu de la Saint Patrick le 17 mars de chaque année, la Fraich'attitude au mois de juin.       Pratique :    Accessible aux personnes à mobilité réduite "
+									}	
+							]
 						}
 					]
 				}, 
@@ -219,38 +486,89 @@
 		       			{
 							"key": "r9",
 							"name": "Cafétéria La Cave",
-							
 							"location": "46.584132, 0.343695",
 							"type": "resto",
 							"openingHours": "110,110,110,110,110,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "A proximité de la médiathèque, de l'UFR de droit et de Sciences Po ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/fedef27381d3238591ae9216190f1f29.jpeg",
+							"contactInfo": {
+								"address": "43 place Notre Dame - 86000 POITIERS ",
+								"tel": "05.49.11.97.77",
+								"email": "cafateria.lacave@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"A proximité de la médiathèque, de l'UFR de droit et de Sciences Po "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au jeudi de10h à 16h et le vendredi de 10h à 15h."
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"  "
+									}, 
+									{ "name": "Description",
+									  "value" :" :  Terrasse extérieure "
+									}	
+							]
 						}, 
 		       			{
 							"key": "r10",
 							"name": "Le 1873",
-							
 							"location": "46.5879437, 0.3454644",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "À proximité de l'IAE et du Rectorat. ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/a7269bfcfed3111aede81522f4fee940.jpeg",
+							"contactInfo": {
+								"address": "22 rue Guillaume VII Le Troubadour - 86000 POITIERS ",
+								"tel": "05.49.11.97.77",
+								"email": "secretariat.restaurant.rochedagent@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"À proximité de l'IAE et du Rectorat. "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h45."
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêts de bus à proximité :   Voie Malraux (lignes 1, 3, 4, 7, 8, 9, 11, C, D), Jardin des Plantes (ligne 7), Pôle Notre Dame (lignes 1, 1 Express, 2B, 3, 4, 7, 8, 9, 11, 12, B, C, D, N2B).   "
+									}, 
+									{ "name": "Description",
+									  "value" :"Buffet d'entrées,   Cuisine traditionnelle,   Desserts maison."
+									}	
+							]
 						}, 
 		       			{
 							"key": "r11",
 							"name": "RU Roche d'Argent",
-							
 							"location": "46.5789840, 0.3484135",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "À proximité de l'école des beaux arts et de l'école de commerce",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/5131280c51cb6bcd149a683fd2135823.jpeg",
+							"contactInfo": {
+								"address": "1 rue Roche d'Argent - 86022 POITIERS  BP 607",
+								"tel": "05.49.11.97.77",
+								"email": "secretariat.restaurant.rochedargent@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"À proximité de l'école des beaux arts et de l'école de commerce"
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h30 à 13h30 (fermé le soir)   La salle Indiana, snack : Du lundi au vendredi de 11h30 à 14h00 (Ouvert uniquement le midi)"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Henri Oudin (lignes 2A, 12, 64 N2A), Cordeliers (lignes 2B, 12, N2B, B), Pôle Notre Dame (lignes 1, 1 Express, 2B, 3, 4, 7, 8, 9, 11, 12, B, C, D, N2B) "
+									}	
+							]
 						}
 					]
 				}, 
@@ -261,26 +579,62 @@
 		       			{
 							"key": "r18",
 							"name": "Cafétéria Le Lac",
-							
 							"location": "46.662096, 0.35926",
 							"type": "resto",
 							"openingHours": "011,011,011,011,000,000,000",
-							"nextClosingDate": "2013-03-04",
+							"nextReopeningDate": "2013-03-04",
 							"shortDesc": "Futuroscope Téléport 2 ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/1ffdebc48b1ff22a7b13f6b7c8254e98.jpeg",
+							"contactInfo": {
+								"address": "Boulevard des Frères Lumière - 86960 FUTUROSCOPE CHASSENEUIL Téléport 2",
+								"tel": "05.49.49.85.01",
+								"email": "cafeteria.lelac@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Futuroscope Téléport 2 "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au jeudi de 11h45 à 20h"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Téléport 2, Université (lignes 1, 1 Express, E) "
+									}, 
+									{ "name": "Description",
+									  "value" :"Prestations :Pôle grillades/frites, pizzas, salades, sandwichs..."
+									}	
+							]
 						}, 
 		       			{
 							"key": "r19",
 							"name": "RU Gémini",
-							
 							"location": "46.662398, 0.36007",
 							"type": "resto",
 							"openingHours": "010,010,010,010,010,000,000",
-							"nextClosingDate": "0",
+							"nextReopeningDate": "0",
 							"shortDesc": "Site du Futuroscope - Téléport 2 ",
-							"desc": "",
-							"contactInfo": ""
+							"img": "http://crous.parking.einden.com/static-images/0ad329b32cfae6ac1a115cadc452779a.jpeg",
+							"contactInfo": {
+								"address": "8 avenue Blaise Pascal - 86960 FUTUROSCOPE CHASSENEUIL BP 90176",
+								"tel": "05.49.49.85.01",
+								"email": "restaurant.gemini@crous-poitiers.fr"
+							},
+							"desc": [
+								
+									{ "name": "Localisation",
+									  "value" :"Site du Futuroscope - Téléport 2 "
+									}, 
+									{ "name": "Horaires",
+									  "value" :"Du lundi au vendredi de 11h45 à 13h30"
+									}, 
+									{ "name": "Moyens d'accès",
+									  "value" :"Arrêt de bus à proximité :   Téléport 2, Université (lignes 1, 1 Express, E) "
+									}, 
+									{ "name": "Description",
+									  "value" :"  Menus complets, grande variété d'entrées et de desserts, pâtes fraîches, pôle grillades/frites..."
+									}	
+							]
 						}
 					]
 				}

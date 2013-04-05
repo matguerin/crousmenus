@@ -2,7 +2,9 @@ $(document).ready(function(){
 	var selectedCampusId = -1, selectedDateIndex = -1;
 	var campusFilter = [], hallsFilter = [], dateFilter = [];
 	var campusData = [];
-	var todayDate = '', selectedDate = '', selectedHall = '';
+	var weekDays = ['Lun', 'Mar', 'Mer', 'Jeu', 'Ven', 'Sam', 'Dim'];
+	var dayCycle = ['Matin', 'Midi', 'Soir'];
+	var todayDateStr = '', selectedDate = '', selectedHall = '';
 	
 	var dateFormat = function(d) {
 		var month= d.getMonth() + 1;
@@ -23,6 +25,24 @@ $(document).ready(function(){
 	var displayDate = function(d) {
 		var _date = d.split("-");
 		return _date[2] + '/' + _date[1]  + '/' + _date[0];
+	}
+	
+	var compareDates = function(firstStr, secondStr) {
+		var _first = new Date(firstStr);
+		_first.setHours(0,0,0,0);
+		console.log("first: " + _first);
+		var _second = new Date(secondStr);
+		_second.setHours(0,0,0,0);
+		console.log("second: " + _second);
+	
+		if (_first == _second) {
+			return 0;
+		} else if (_first > _second) {
+			return 1;
+		} else if (_first < _second) {
+			return -1;
+		}
+		
 	}
 	
 	var loadFeeds = function(){
@@ -60,6 +80,10 @@ $(document).ready(function(){
 				getHallsByCampusAndDate();
 				//getMenu();
 			}
+			$.each(campus.diningHalls, function(i, hall){
+				displayHallDetails(hall);
+			});
+			
 		});
 		$('#campusList').trigger('create');
 	}
@@ -78,7 +102,7 @@ $(document).ready(function(){
 		dateFilter.length = 0;
 		$.each(foodData.food, function(i, day){
 			/* by default, the selected date is the current day */
-			if (selectedDateIndex < 0 || todayDate == day.date) {
+			if (selectedDateIndex < 0 || todayDateStr == day.date) {
 				selectedDateIndex = i;
 				selectedDate = day.date;
 			}
@@ -123,6 +147,57 @@ $(document).ready(function(){
 		//$("#hallList").collapsible("create");
 	}
 	
+	var displayHallDetails = function(hall) {
+		var _hallPage = $('<div>').attr('id', 'dialog-hall-' + hall.key).attr('data-role', 'dialog');
+		_hallPage.append($('<div>').attr('data-role', 'header').append($('<h1>').text(hall.name)));
+		_hallPage.appendTo($('body'));
+		var _hallPageContent = $('<div>').attr('data-role', 'content');
+			
+		if (hall.nextReopeningDate == "0" || compareDates(todayDateStr, hall.nextReopeningDate) >= 0) {
+			var _openingContainer = $('<div>').attr('class', 'ui-grid-c');
+			var _dayOpenings = hall.openingHours.split(",");
+			var _classOpeningList = ['ui-block-b', 'ui-block-c', 'ui-block-d']
+			for (var i = 0 ; i < _dayOpenings.length ; i++) {
+				_openingContainer.append($('<div>').text(weekDays[i]).attr('class', 'ui-block-a'));
+				for ( var j = 0; j < _dayOpenings[i].length; j++ ) {
+					if (_dayOpenings[i][j] == '0') {
+					_openingContainer.append($('<div>').text('F').attr('class', _classOpeningList[j]));
+					} else {
+						_openingContainer.append($('<div>').text('O').attr('class',  _classOpeningList[j]));
+					}
+				}			
+			}
+			_openingContainer.appendTo(_hallPageContent);
+		} else {
+			console.log(hall.key + " is closed");
+			_hallPageContent.append($('<div class="nextClosing">').text("Fermé jusqu'au " + hall.nextReopeningDate));
+		}
+		
+
+		var _descCollapsible = $('<div>').append($('<h3>').text('Description')).attr('data-role', 'collapsible').attr('data-collapsed-icon', 'arrow-r').attr('data-expanded-icon','arrow-d');
+		var _descContainer = _descCollapsible.append($('<div>'));
+		_descContainer.append($('<img>').attr('src', hall.img).attr('style', 'max-width:100%;'));
+		if (hall.desc) {
+			for (var i = 0; i < hall.desc.length; i++) {
+				_descContainer.append($('<div>').append($('<h4>').text(hall.desc[i].name)).append($('<div>').text(hall.desc[i].value)).attr('class', 'description'));
+				if (hall.desc[i].name.toLowerCase() == 'localisation') {
+					_descContainer.append($('<a>').text('Maps').attr('href', 'https://maps.google.com/maps?q=loc:' + hall.location).attr('target', '_blank'));
+				}
+			}
+		}
+		_descCollapsible.appendTo(_hallPageContent);
+		
+		var _contactCollapsible = $('<div>').append($('<h3>').text('Contact info')).attr('data-role', 'collapsible').attr('data-content-theme', 'c');
+		var _contactContainer = _contactCollapsible.append($('<div>'));
+		
+		_contactContainer.append($('<div>').text(hall.contactInfo.address).append($('<a style="float:right;">').attr('href', 'https://maps.google.com/maps?q=loc:' + hall.location).attr('target', '_blank')));
+		_contactContainer.append($('<a>').text(hall.contactInfo.tel).attr('href', 'tel:' + hall.contactInfo.tel.replace(/\./g, "")));
+		_contactContainer.append($('<a>').text(hall.contactInfo.email).attr('href', 'mailto:' + hall.contactInfo.email));		
+		_contactCollapsible.appendTo(_hallPageContent);
+		
+		_hallPageContent.appendTo(_hallPage);
+	}
+	
 	var getMenu = function() {
 		selectedHall = $('#hallSelect').val();
 		$('#menuContainer').empty();
@@ -143,6 +218,7 @@ $(document).ready(function(){
 	var displayMenuItems = function(menu) {
 		console.log(menu);
 		var _menu = $('<div class="menu">');
+		_menu.append($('<a style="float:right;">').text('Show info on RU').attr('data-rel', 'dialog').attr('href', '#dialog-hall-' + menu.diningHall));
 		$.each(menu.meals, function(i, meal){
 			var _meal = $('<div class="meal">').appendTo(_menu);
 			$('<div class="mealName">').text(meal.name).appendTo(_meal);
@@ -189,8 +265,7 @@ $(document).ready(function(){
 		getHallsByCampusAndDate();
 	});
 	
-	console.log('aaaaaaaaaaa');
-	todayDate = dateFormat(new Date());
+	todayDateStr = dateFormat(new Date());
 	
 	loadFeeds();
 	getData();
