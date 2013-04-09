@@ -1,3 +1,41 @@
 h4 {
 	margin-bottom: 5px;
 }
+
+img {
+	max-width: 90%;
+}
+
+.openingHours div {
+	text-align: center;
+}
+.openingHours>div.day {
+	border-bottom: thin solid #ddd;
+}
+
+.openingHours .closedPeriod {
+	background: #ccc;
+	color: #aaa;
+}
+
+.openingHours .openedPeriod {
+	background: #B4CA20;
+}
+
+.description-container, .contactInfos-container, .menu-container {
+	border: thin dashed #ccc;
+	border-top: none;
+	background: #efefef;
+	margin-top: 5px;
+}
+.menu-container {
+	margin-top: 0;
+	border-bottom: none;
+}
+:not(.ui-collapsible-collapsed).menu-container:last-child {
+	border-bottom: thin dashed #ccc;
+}
+
+.contactInfos-container div {
+	margin-bottom: 5px;
+}

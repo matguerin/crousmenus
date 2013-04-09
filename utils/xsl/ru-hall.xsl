@@ -15,6 +15,7 @@
 	<!-- ________customization ends here________ -->
 	
 	<xsl:variable name="rootNode" select="/root" />
+	<xsl:variable name="todayDate" select="current-date()" />
 		
 	<xsl:template match="/">
       <xsl:apply-templates select="root" />
@@ -35,6 +36,7 @@
 							"location": "<xsl:value-of select="@lat"/>, <xsl:value-of select="@lon"/>",
 							"type": "<xsl:value-of select="@type"/>",
 							"openingHours": "<xsl:value-of select="@opening"/>",
+							"isCurrentlyClosed": "<xsl:choose><xsl:when test="@closing='0' or xs:date(@closing) &lt;= $todayDate">false</xsl:when><xsl:otherwise>true</xsl:otherwise></xsl:choose>",
 							"nextReopeningDate": "<xsl:value-of select="@closing"/>",
 							"shortDesc": "<xsl:value-of select="@short_desc"/>",
 							"img": "<xsl:value-of select="infos/img[1]/@src"/>",
